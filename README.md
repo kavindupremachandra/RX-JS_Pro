@@ -1,7 +1,7 @@
 # RxJS Boiler
 
 Boilerplate for building RxJS applications in a Webpack environment
-
+# This a project for practicing RXJS with Brad Traversy
 > Note:
 > The video explaining RxJS and making use of this repo is located here:
 >
@@ -33,7 +33,7 @@ $ webpack
 ```
 To watch run
 ```sh
-$ webpack -w
+$ npx webpack -w
 ```
 
 ### Run
@@ -43,7 +43,8 @@ $ npm install live-server -g
 ```
 
 ```sh
-$ npm start
+$ npm run start
 ```
 
 Visit [http://localhost:8000](http://localhost:8000)
+# RX-JS_Pro
